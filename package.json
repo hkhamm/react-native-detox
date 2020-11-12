@@ -1,7 +1,8 @@
 {
     "name": "react-native-detox",
     "version": "1.0.0",
-    "private": true,
+    "author": "H Keith Hamm",
+    "license": "MIT",
     "scripts": {
         "start": "react-native start",
         "android": "react-native run-android",
